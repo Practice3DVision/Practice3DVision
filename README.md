@@ -30,7 +30,7 @@
 
 <strong>✨您可以通过以下平台找到我所分享的内容：</strong>
 <p align="center">
-<a href= "src/assert/wechat.png" target="_blank" alt="WeChat" title="WeChat">
+<a href= "asserts/wechat.png" target="_blank" alt="WeChat" title="WeChat">
     <img width="36" height="36" src="https://img.icons8.com/fluency/36/weixing.png" alt="weixing"/>
   </a>
   &emsp;
