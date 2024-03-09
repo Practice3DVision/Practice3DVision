@@ -1,7 +1,7 @@
 <h2><img src="asserts/hellokittydance.gif" alt="Hi" width="42"/>欢迎访问我的Github</h2>
 ✨我是一名即将毕业的硕士生，也是一名准三维重建算法工程师。我目前的研究兴趣有：结构光、三维重建、点云处理、机器人、深度学习。如果你的心率已经升高，那看来我们有相同的兴趣，赶快Follow me并与我探讨吧！<br />
 <br/>
-<strong><font color="Green">✨Fllow me 👈</font></strong>
+<strong><font color="green">✨Fllow me 👈</font></strong>
 <br/>
 <!--<p align="center">以下是我的Github统计信息：</p> -->
 <br/>
@@ -49,6 +49,7 @@
 ✨<strong>Languages</strong>
 <br/>
 <br/>
+<p align="center">
 <img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" title="cpp">
 &emsp;
 <img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/36/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo.png" alt="external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo"/>
@@ -74,9 +75,11 @@
 <img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git">
 <br/>
 <br/>
+</p>
 ✨<strong>Packages</strong>
 <br/>
 <br/>
+<p align="center">
 <img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" alt="opencv" title="opencv">
 &emsp;
 <img height="36" width="36" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt">
@@ -90,9 +93,11 @@
 <img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" alt="OpenGL" title="OpenGL">
 <br/>
 <br/>
+</p>
 ✨<strong>Tools</strong>
 <br/>
 <br/>
+<p align="center">
 <img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode">
 &emsp;
 <img height="36" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm">
@@ -100,3 +105,4 @@
 <img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu">
 &emsp;
 <img width="36" height="36" src="https://img.icons8.com/fluency/36/jupyter.png" alt="jupyter"/>
+</p>
