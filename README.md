@@ -1,5 +1,6 @@
 <h2><img src="asserts/hellokittydance.gif" alt="Hi" width="42"/>欢迎访问我的Github</h2>
 ✨我是一名即将毕业的硕士生，也是一名准三维重建算法工程师。我目前的研究兴趣有：结构光、三维重建、点云处理、机器人、深度学习。如果你的心率已经升高，那看来我们有相同的兴趣，赶快Follow me并与我探讨吧！
+
 <br />
 <br />
 <div align="center"><img src="asserts/wechat.png" width="60%"/></div>
@@ -7,6 +8,15 @@
 <br />
 <strong><font color="green">✨Fllow me 👈</font></strong>
 <br/>
+
+**当前正在完成的系列博客内容：**
+- [从0到1搭建一套属于你自己的高精度实时结构光3D相机（0）：前言](https://mp.weixin.qq.com/s/E8K3892eNVJfgpMUHtf9Lw)
+- [从0到1搭建一套属于你自己的高精度实时结构光3D相机（1）：硬件搭建](https://mp.weixin.qq.com/s/Ogno-KR2PLRzmP4qnD-RCw)
+
+该系列的代码库为[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈，可自行下载，请动动手指给个**Star**⭐，你的支持是博主不懈的动力。
+
+该库依赖的结构光算法位于[opencv_contribute](https://github.com/Practice3DVision/opencv_contrib/tree/liuyunhuang)👈中的[cudastructuredlight](https://github.com/Practice3DVision/opencv_contrib/tree/liuyunhuang/modules/cudastructuredlight)👈和[structuredlight](https://github.com/Practice3DVision/opencv_contrib/tree/liuyunhuang/modules/structured_light)👈模块，该两个模块有博主写的较为规范的 **C/C++** 代码，可供学习参考。
+
 <!--<p align="center">以下是我的Github统计信息：</p> -->
 <br/>
 <p align="center">
