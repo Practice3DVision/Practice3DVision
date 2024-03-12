@@ -12,6 +12,7 @@
 **当前正在完成的系列博客内容：**
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（0）：前言](https://mp.weixin.qq.com/s/E8K3892eNVJfgpMUHtf9Lw)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（1）：硬件搭建](https://mp.weixin.qq.com/s/Ogno-KR2PLRzmP4qnD-RCw)
+- [从0到1搭建一套属于你自己的高精度实时结构光3D相机（2）：结构光3D相机搭建](https://mp.weixin.qq.com/s/9NVvtMime4psZwgMnLZg6Q)
 
 该系列的代码库为[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈，可自行下载，请动动手指给个**Star**⭐，你的支持是博主不懈的动力。
 
