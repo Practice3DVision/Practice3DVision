@@ -15,6 +15,7 @@
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（2）：结构光3D相机搭建](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483758&idx=1&sn=0a52c3dbe1d72f10d60ec5334cd8d70c&chksm=c15afb81f62d7297ea314acb4171567d296ace5f6dd6ccb34db786c7402b18e85eb7a61fbad7#rd)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（3）：相机控制（C/C++）](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483764&idx=1&sn=82754d0a7f17708c1440adf24648d0f1&chksm=c15afb9bf62d728dd97ea9d2d081ec8675259de3abf0700623ad155cd76ef354a30d1ca5a7dc#rd)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（4）：投影仪控制（C/C++）](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483770&idx=1&sn=b3fcf4bba677ada45cf02fbcbfb86705&chksm=c15afb95f62d7283694ea23260203bd754f3f218dcfc8607898f6c1aef8044af269904121385#rd)
+- [从0到1搭建一套属于你自己的高精度实时结构光3D相机（5）：结构光3D相机SDK开发（C/C++）](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483779&idx=1&sn=bfcfa6b52a7a964315e7f444a545eb76&chksm=c15afb6cf62d727a9df5971aef0a9954d5f3314df00917948d50061b3d14fe90eb1e550920ee#rd)
 
 该系列的代码库为[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈，可自行下载，请动动手指给个**Star**⭐，你的支持是博主不懈的动力。
 
