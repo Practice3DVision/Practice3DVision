@@ -6,7 +6,7 @@
 <div align="center"><img src="asserts/wechat.png" width="60%"/></div>
 <br />
 <br />
-<strong><font color="green">✨Fllow me 👈</font></strong>
+<p align="center"><strong><font color="green">✨关注博主公众号不迷路！ 👈</font></strong></p>
 <br/>
 
 **当前正在完成的系列博客内容：**
@@ -17,6 +17,7 @@
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（4）：投影仪控制（C/C++）](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483770&idx=1&sn=b3fcf4bba677ada45cf02fbcbfb86705&chksm=c15afb95f62d7283694ea23260203bd754f3f218dcfc8607898f6c1aef8044af269904121385#rd)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（5）：结构光3D相机SDK开发（C/C++）](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483779&idx=1&sn=bfcfa6b52a7a964315e7f444a545eb76&chksm=c15afb6cf62d727a9df5971aef0a9954d5f3314df00917948d50061b3d14fe90eb1e550920ee#rd)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（6）：相移互补格雷码解码](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483794&idx=1&sn=e6b954fb650da4cf50bfb7dfd3ea61c2&chksm=c15afb7df62d726b6807c4be55f895866dd6dea625674c938baf446b83855386d86a68fba6ef#rd)
+- [从0到1搭建一套属于你自己的高精度实时结构光3D相机（7）：采用同心双圆环靶标下的相机标定算法](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483822&idx=1&sn=723ce9be9ad583256e2fd7c3cc6d0ff8&chksm=c15afb41f62d72575d8f78773fe34173123e03fd031caadaa109090ba4eab7ad187de398d2ba#rd)
 
 该系列的代码库为[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈，可自行下载，请动动手指给个**Star**⭐，你的支持是博主不懈的动力。
 
