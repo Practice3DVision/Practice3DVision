@@ -29,9 +29,7 @@
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（10）：基于绝对相位的立体匹配方法](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483869&idx=1&sn=6e0eea41b1eef97854afa3211c4d39ff&chksm=c15afb32f62d722471f63f6f55baf5badf216f0e4bb83516f35a4567a229184df6b80608af29#rd)
 - [SLMaster第一版可执行软件发布了！](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483874&idx=1&sn=139634f6d6e8478e637605b6289062d7&chksm=c15afb0df62d721be0b44ff803f6461e9ba4acc57386ef3a8901de7600950021877085bab7d2#rd)
 
-该系列的代码库为[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈，可自行下载，请动动手指给个**Star**⭐，你的支持是博主不懈的动力。
-
-该库依赖的结构光算法位于博主[opencv_contribute](https://github.com/Practice3DVision/opencv_contrib/tree/liuyunhuang)👈库中的[cudastructuredlight](https://github.com/Practice3DVision/opencv_contrib/tree/liuyunhuang/modules/cudastructuredlight)👈和[structuredlight](https://github.com/Practice3DVision/opencv_contrib/tree/liuyunhuang/modules/structured_light)👈模块，该两个模块有博主写的较为规范的 **C/C++** 代码，可供学习参考。
+该系列的代码库为[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈，可自行下载。请动动手指在仓库右上角点击**Star**⭐，你的支持是博主不懈的动力。
 
 <!--<p align="center">以下是我的Github统计信息：</p> -->
 <br/>
@@ -56,83 +54,4 @@
   <a href="https://github.com/Practice3DVision">
     <img src="https://badges.strrl.dev/commits/monthly/Practice3DVision?style=flat-square&color=black&logo=github">
   </a>
-</p>
-
-<strong>✨您可以通过以下平台找到我所分享的内容：</strong>
-<p align="center">
-<a href= "asserts/wechat.png" target="_blank" alt="WeChat" title="WeChat">
-    <img width="36" height="36" src="https://img.icons8.com/fluency/36/weixing.png" alt="weixing"/>
-  </a>
-  &emsp;
-  <a href= "https://blog.csdn.net/m0_56071788" target="_blank" alt="csdn" title="csdn">
-<img width="36" height="36" src="https://img.icons8.com/material-outlined/36/csdn.png" alt="csdn"/>
-  </a>
-  &emsp;
-   <a href="https://www.zhihu.com/people/liu-yun-huang-53" target="_blank" alt="Zhihu" title="Zhihu">
-    <img width="36" height="36" src="https://img.icons8.com/windows/36/zhihu.png" alt="zhihu"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/371405615?spm_id_from=333.1007.0.0" target="_blank" alt="Bilibili" title="Bilibili">
-    <img width="36" height="36" src="https://img.icons8.com/color/36/bilibili.png" alt="bilibili"/>
-  </a>
-</p>
-✨<strong>Languages</strong>
-<br/>
-<br/>
-<p align="center">
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" title="cpp">
-&emsp;
-<img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/36/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo.png" alt="external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo"/>
-&emsp;
-<img width="36" height="36" src="https://img.icons8.com/color/48/nvidia.png" alt="nvidia"/>
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="Markdown">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="matlab" title="matlab">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" title="Vue">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" title="Css">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" title="Javascript">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git">
-<br/>
-<br/>
-</p>
-✨<strong>Packages</strong>
-<br/>
-<br/>
-<p align="center">
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" alt="opencv" title="opencv">
-&emsp;
-<img height="36" width="36" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt">
-&emsp;
-<img width="36" height="36" src="asserts/vtk.png" alt="vtk"/>
-&emsp;
-<img width="36" height="36" src="asserts/pcl.jpg" alt="pytorch"/>
-&emsp;
-<img width="36" height="36" src="https://img.icons8.com/fluency/36/pytorch.png" alt="pytorch"/>
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" alt="OpenGL" title="OpenGL">
-<br/>
-<br/>
-</p>
-✨<strong>Tools</strong>
-<br/>
-<br/>
-<p align="center">
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode">
-&emsp;
-<img height="36" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm">
-&emsp;
-<img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu">
-&emsp;
-<img width="36" height="36" src="https://img.icons8.com/fluency/36/jupyter.png" alt="jupyter"/>
 </p>
